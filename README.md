@@ -36,15 +36,13 @@ Include tutte le query SQL utilizzate per l’analisi.
 
 ---
 
-### 📂 3. graphs/
+###  3. graphs
 Raccolta dei grafici generati a partire dalle query SQL.
-- `stress_gender.png`
-- `depression_age_gender.png`
-- `anxiety_social_interaction.png`
-- `physical_activity_age_gender.png`
-- `addiction_age_gender.png`
-- `academic_vs_social.png`
-- `screen_time_vs_anxiety.png`
+- 📂`stress_gender.png`
+- 📂`depression_age_gender.png`
+- 📂`anxiety_social_interaction.png`
+- 📂`physical_activity_addiction.png`
+- 📂`academic_vs_social.png`
 
 ---
 
